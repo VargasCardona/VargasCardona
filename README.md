@@ -25,6 +25,6 @@
 <h2></h2><br>
 <div align="center">
 
-[![Sieg's github stats](https://github-readme-stats.vercel.app/api?username=JustZark&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Sieg's github stats](https://github-readme-stats.vercel.app/api?username=VargasCardona&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustZark&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VargasCardona&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
