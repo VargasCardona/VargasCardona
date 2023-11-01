@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**VargasCardona/VargasCardona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        Welcome
+      <br>
+        I'm Nicolas, a Software developer and musician
+      </b>
+      <br>
+        <image src="https://readme-typing-svg.herokuapp.com?color=80ccf9&font=Iosevka+medium&size=19&center=true&lines=In+the+midst+of+chaos;+++++++++++++++There+is+also+opportunity">
+      <br>
+      <b>
+        ~ Sun Tzu ~
+      </b>
+    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details align="center">
+<summary></summary>
+<h2></h2><br>
+<div align="center">
+
+[![Sieg's github stats](https://github-readme-stats.vercel.app/api?username=JustZark&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustZark&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
