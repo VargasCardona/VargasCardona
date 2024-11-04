@@ -6,7 +6,7 @@
       <b>
         Welcome
       <br>
-        I'm Nicolás, a Software developer currently exploring AI and Computer Vision
+        I'm Nicolás, a Software developer with deep interest for cutting edge tech
       </b>
       <br>
         <image src="https://readme-typing-svg.herokuapp.com?color=80ccf9&font=Iosevka+medium&size=19&center=true&lines=In+the+midst+of+chaos;+++++++++++++++There+is+also+opportunity">
