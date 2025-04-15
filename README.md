@@ -1,9 +1,5 @@
-<img align="left" src="https://github.com/user-attachments/assets/fbd6c751-5a48-4161-8f2d-0b6c201def6a#gh-dark-mode-only">
+<img align="left" src="https://github.com/user-attachments/assets/b7def439-ba01-40e0-be25-2310fa9ba9ef#gh-dark-mode-only">
 <img align="left" src="https://github.com/user-attachments/assets/7dace001-b097-43a7-90c7-f2b99c8d23f3#gh-light-mode-only">
-
-<br>
-<br>
-<br>
 
 ### Welcome
 
@@ -18,11 +14,6 @@ Reliable, efficient, and built to scale.
 ![GitHub last commit](https://img.shields.io/github/last-commit/VargasCardona/VargasCardona?style=for-the-badge&labelColor=rgb(0%2C0%2C0)&color=rgb(255%2C255%2C255))
 
 
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
