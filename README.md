@@ -1,5 +1,5 @@
-<img align="left" src="https://github.com/user-attachments/assets/c6f2c746-c6cd-4c9f-b0c5-abd9fb71af58#gh-dark-mode-only">
-<img align="left" src="https://github.com/user-attachments/assets/199e1c75-b840-491a-9b1a-8d33f573e17e#gh-light-mode-only">
+<img align="left" src="https://github.com/user-attachments/assets/c2acadf2-ee4a-4076-870a-cda29854d990#gh-dark-mode-only">
+<img align="left" src="https://github.com/user-attachments/assets/76fae2c8-2604-4740-9853-3f35f588b09b#gh-light-mode-only">
 
 ### Welcome
 
