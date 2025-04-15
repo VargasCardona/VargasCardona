@@ -1,7 +1,7 @@
 <br>
 <br>
 <img align="left" src="https://github.com/user-attachments/assets/b7def439-ba01-40e0-be25-2310fa9ba9ef#gh-dark-mode-only">
-<img align="left" src="https://github.com/user-attachments/assets/7dace001-b097-43a7-90c7-f2b99c8d23f3#gh-light-mode-only">
+<img align="left" src="https://github.com/user-attachments/assets/78cafc0e-ce9f-444b-8812-6cbdf2774fe4#gh-light-mode-only">
 
 ### Welcome
 
