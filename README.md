@@ -13,7 +13,10 @@ I craft backend systems and developer infrastructure.
 
 Reliable, efficient, and built to scale.
 
+
 ![GitHub User's stars](https://img.shields.io/github/stars/VargasCardona?style=for-the-badge&logo=github&labelColor=rgb(0%2C0%2C0)&color=rgb(255%2C255%2C255))
+![GitHub last commit](https://img.shields.io/github/last-commit/VargasCardona/VargasCardona?style=for-the-badge&labelColor=rgb(0%2C0%2C0)&color=rgb(255%2C255%2C255))
+
 
 <br>
 <br>
