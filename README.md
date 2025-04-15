@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/user-attachments/assets/aea91018-277c-46e9-a5e9-5c0aeac40eb3#gh-dark-mode-only">
+<img align="left" src="https://github.com/user-attachments/assets/fbd6c751-5a48-4161-8f2d-0b6c201def6a#gh-dark-mode-only">
 <img align="left" src="https://github.com/user-attachments/assets/7dace001-b097-43a7-90c7-f2b99c8d23f3#gh-light-mode-only">
 
 <br>
