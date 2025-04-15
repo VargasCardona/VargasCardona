@@ -1,30 +1,15 @@
+<img align="left" src="https://github.com/user-attachments/assets/c6f2c746-c6cd-4c9f-b0c5-abd9fb71af58#gh-dark-mode-only">
+<img align="left" src="https://github.com/user-attachments/assets/199e1c75-b840-491a-9b1a-8d33f573e17e#gh-light-mode-only">
 
-<!-- Profile -->
-<p align="left"><strong><samp>「</samp></strong></p>
-  <p align="center">
-    <samp>
-      <b>
-        Welcome
-      <br>
-        I'm Nicolás, a Software developer with deep interest for cutting edge tech
-      </b>
-      <br>
-        <image src="https://readme-typing-svg.herokuapp.com?color=80ccf9&font=Iosevka+medium&size=19&center=true&lines=In+the+midst+of+chaos;+++++++++++++++There+is+also+opportunity">
-      <br>
-      <b>
-        ~ Sun Tzu ~
-      </b>
-    </samp>
-  </p>
-<p align="right"><strong><samp>」</samp></strong></p>
+### Welcome
+
+I'm **Nicolas**.
+
+I craft backend systems and developer infrastructure.
+
+Reliable, efficient, and built to scale.
 
 <br>
-
-<details align="center">
-<summary></summary>
-<h2></h2><br>
-<div align="center">
-
-[![Sieg's github stats](https://github-readme-stats.vercel.app/api?username=VargasCardona&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VargasCardona&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<br>
+<br>
