@@ -1,5 +1,8 @@
-<img align="left" src="https://github.com/user-attachments/assets/db89abaf-f0a7-4f89-9dcb-08bbee4d6574#gh-dark-mode-only">
-<img align="left" src="https://github.com/user-attachments/assets/0f49609e-99f5-46c0-ad45-8b9d6d7d571e#gh-light-mode-only">
+<img align="left" src="https://github.com/user-attachments/assets/aea91018-277c-46e9-a5e9-5c0aeac40eb3#gh-dark-mode-only">
+<img align="left" src="https://github.com/user-attachments/assets/7dace001-b097-43a7-90c7-f2b99c8d23f3#gh-light-mode-only">
+
+<br>
+<br>
 
 ### Welcome
 
@@ -12,7 +15,7 @@ Reliable, efficient, and built to scale.
 <br>
 <br>
 <br>
-<br>
+
 
 ## About me:
 I'm Nicolás, a backend engineer building infrastructure, internal tools, and scalable systems. I focus on clean abstractions, reliable deployments, and developer-first workflows. From containerization to backend APIs, I care about performance, maintainability, and simplicity, ensuring that secure practices are embedded from code writing to deployment.
