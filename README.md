@@ -1,7 +1,7 @@
 <br>
 <br>
-<img align="left" src="https://github.com/user-attachments/assets/b7def439-ba01-40e0-be25-2310fa9ba9ef#gh-dark-mode-only">
-<img align="left" src="https://github.com/user-attachments/assets/78cafc0e-ce9f-444b-8812-6cbdf2774fe4#gh-light-mode-only">
+<img align="left" src="https://github.com/user-attachments/assets/e82ccbdf-12e9-4a71-9baf-d6b217ff3eba#gh-dark-mode-only">
+<img align="left" src="https://github.com/user-attachments/assets/57609074-b1f0-43c9-a3d3-c938e36b2a7b#gh-light-mode-only">
 
 ### Welcome
 
@@ -10,7 +10,6 @@ I'm **Nicolás**.
 I craft backend systems and developer infrastructure.
 
 Reliable, efficient, and built to scale.
-
 
 ![GitHub User's stars](https://img.shields.io/github/stars/VargasCardona?style=for-the-badge&logo=github&labelColor=rgb(0%2C0%2C0)&color=rgb(255%2C255%2C255))
 ![GitHub last commit](https://img.shields.io/github/last-commit/VargasCardona/VargasCardona?style=for-the-badge&labelColor=rgb(0%2C0%2C0)&color=rgb(255%2C255%2C255))
